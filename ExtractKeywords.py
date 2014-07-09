@@ -49,10 +49,12 @@ def countkeywords():
             words=re.split(' ', words)
             lowerText=[]
 	    for w in words:
+                if 'http' in w:lowerText.append(w)                    
+                w=re.sub(r'[/\-]', ' ', w)
                 w=re.sub(r'[!?"(),:...]', '', w)
                 lowerText.append(w.lower())
                       
-            print lowerText
+            #print lowerText
             lowerKeys=eval(repr(keydict).lower())
             #print lowerKeys
             useful=0
@@ -66,11 +68,13 @@ def countkeywords():
                 dotkey=key+'.'
                 hashkey='#'+key
                 atkey='@'+key
-                if key in lowerText or quotkey in lowerText or dotkey in lowerText or hashkey in lowerText or atkey in lowerText or dquotkey in lowerText:
-                  print key
+                if key in lowerText or quotkey in lowerText or hashkey in lowerText or atkey in lowerText or dquotkey in lowerText or dotkey in lowerText:
+                  useful=1
+                  print 1
                 keyset=set(re.split(r'\s', key))
                 if keyset.issubset(set(lowerText)):
-                     print keyset
+                     useful=1
+                     print 2
                 else:
 		   continue
                 '''if 'http' in word:continue
@@ -81,8 +85,9 @@ def countkeywords():
                      # keydict[word]+=1'''        
             if useful==0:
                  nouse=1
-                 #print text
-                 #pprint.pprint (keydict.keys())
+                 print text
+                 print lowerText
+                 pprint.pprint (keydict.keys())
             #print nouse
 def main():
    #getkeywords("Toronto_Milwaukee_2014414")
