@@ -1,0 +1,4 @@
+# clean the log file and the collected user timeline in ./data
+rm stream.log
+rm *.pyc
+#rm ./data/*.txt

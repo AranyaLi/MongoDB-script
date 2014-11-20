@@ -1,0 +1,302 @@
+[
+    {
+        "count": 12313, 
+        "_id": "cat"
+    }, 
+    {
+        "count": 6417, 
+        "_id": "fish"
+    }, 
+    {
+        "count": 3168, 
+        "_id": "raptors"
+    }, 
+    {
+        "count": 2723, 
+        "_id": "tor"
+    }, 
+    {
+        "count": 2076, 
+        "_id": "kendrick"
+    }, 
+    {
+        "count": 1994, 
+        "_id": "kd"
+    }, 
+    {
+        "count": 1858, 
+        "_id": "thunder"
+    }, 
+    {
+        "count": 1262, 
+        "_id": "okc"
+    }, 
+    {
+        "count": 1058, 
+        "_id": "durant"
+    }, 
+    {
+        "count": 835, 
+        "_id": "buck"
+    }, 
+    {
+        "count": 780, 
+        "_id": "kevin durant"
+    }, 
+    {
+        "count": 483, 
+        "_id": "reggie"
+    }, 
+    {
+        "count": 439, 
+        "_id": "the acc"
+    }, 
+    {
+        "count": 404, 
+        "_id": "westbrook"
+    }, 
+    {
+        "count": 320, 
+        "_id": "okcthunder"
+    }, 
+    {
+        "count": 248, 
+        "_id": "kdtrey5"
+    }, 
+    {
+        "count": 210, 
+        "_id": "russell westbrook"
+    }, 
+    {
+        "count": 206, 
+        "_id": "perk"
+    }, 
+    {
+        "count": 166, 
+        "_id": "ibaka"
+    }, 
+    {
+        "count": 157, 
+        "_id": "steven adams"
+    }, 
+    {
+        "count": 148, 
+        "_id": "serge ibaka"
+    }, 
+    {
+        "count": 142, 
+        "_id": "andre roberson"
+    }, 
+    {
+        "count": 123, 
+        "_id": "iamamirjohnson"
+    }, 
+    {
+        "count": 122, 
+        "_id": "oklahoma city"
+    }, 
+    {
+        "count": 64, 
+        "_id": "jvalanciunas"
+    }, 
+    {
+        "count": 52, 
+        "_id": "kyle lowry"
+    }, 
+    {
+        "count": 46, 
+        "_id": "toronto raptors"
+    }, 
+    {
+        "count": 45, 
+        "_id": "the second coming"
+    }, 
+    {
+        "count": 44, 
+        "_id": "fashion icon"
+    }, 
+    {
+        "count": 39, 
+        "_id": "jonas valanciunas"
+    }, 
+    {
+        "count": 38, 
+        "_id": "air canada centre"
+    }, 
+    {
+        "count": 34, 
+        "_id": "amir johnson"
+    }, 
+    {
+        "count": 28, 
+        "_id": "demar_derozan"
+    }, 
+    {
+        "count": 28, 
+        "_id": "border collie"
+    }, 
+    {
+        "count": 24, 
+        "_id": "demar derozan"
+    }, 
+    {
+        "count": 19, 
+        "_id": "pdpatt"
+    }, 
+    {
+        "count": 16, 
+        "_id": "collison"
+    }, 
+    {
+        "count": 15, 
+        "_id": "terrence ross"
+    }, 
+    {
+        "count": 14, 
+        "_id": "russwest44"
+    }, 
+    {
+        "count": 12, 
+        "_id": "realstevenadams"
+    }, 
+    {
+        "count": 12, 
+        "_id": "klow7"
+    }, 
+    {
+        "count": 12, 
+        "_id": "derek fisher"
+    }, 
+    {
+        "count": 11, 
+        "_id": "thabo"
+    }, 
+    {
+        "count": 10, 
+        "_id": "reggie jackson"
+    }, 
+    {
+        "count": 8, 
+        "_id": "the hangar"
+    }, 
+    {
+        "count": 6, 
+        "_id": "t_dotflight31"
+    }, 
+    {
+        "count": 6, 
+        "_id": "sefolosha"
+    }, 
+    {
+        "count": 5, 
+        "_id": "the thunderdome"
+    }, 
+    {
+        "count": 5, 
+        "_id": "oklahomacitythunder"
+    }, 
+    {
+        "count": 5, 
+        "_id": "greivis vasquez"
+    }, 
+    {
+        "count": 5, 
+        "_id": "chesapeake energy arena"
+    }, 
+    {
+        "count": 4, 
+        "_id": "thabeet"
+    }, 
+    {
+        "count": 4, 
+        "_id": "stevenovak16"
+    }, 
+    {
+        "count": 4, 
+        "_id": "slim reaper"
+    }, 
+    {
+        "count": 4, 
+        "_id": "patrick patterson"
+    }, 
+    {
+        "count": 4, 
+        "_id": "nandodecolo"
+    }, 
+    {
+        "count": 4, 
+        "_id": "loud city"
+    }, 
+    {
+        "count": 3, 
+        "_id": "kendrick perkins"
+    }, 
+    {
+        "count": 3, 
+        "_id": "jeremy lamb"
+    }, 
+    {
+        "count": 3, 
+        "_id": "chuck hayes"
+    }, 
+    {
+        "count": 2, 
+        "_id": "the peake"
+    }, 
+    {
+        "count": 2, 
+        "_id": "sergeibaka9"
+    }, 
+    {
+        "count": 2, 
+        "_id": "hasheem"
+    }, 
+    {
+        "count": 2, 
+        "_id": "flydre21"
+    }, 
+    {
+        "count": 2, 
+        "_id": "cb3"
+    }, 
+    {
+        "count": 2, 
+        "_id": "caron butler"
+    }, 
+    {
+        "count": 1, 
+        "_id": "thabosefolosha"
+    }, 
+    {
+        "count": 1, 
+        "_id": "thabo sefolosha"
+    }, 
+    {
+        "count": 1, 
+        "_id": "landry fields"
+    }, 
+    {
+        "count": 1, 
+        "_id": "kendrickperkins"
+    }, 
+    {
+        "count": 1, 
+        "_id": "k-dog"
+    }, 
+    {
+        "count": 1, 
+        "_id": "julyan stone"
+    }, 
+    {
+        "count": 1, 
+        "_id": "hasheem thabeet"
+    }, 
+    {
+        "count": 1, 
+        "_id": "dwight buycks"
+    }, 
+    {
+        "count": 1, 
+        "_id": "d-fish"
+    }
+]

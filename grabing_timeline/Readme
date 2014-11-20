@@ -1,0 +1,26 @@
+*****************ATTENTIONS
+1. Before you run the program, please contact me. Because the APIs are not changed, if you run it, it may ruin my running program.
+   Besides, it will also ruin the data in mongoDB. So, please remember it.
+
+2. This program will read in a user_id list, and fetch the twitter timeline of each user. 
+
+3. It creates a database named User_Timeline_Data in mongoDB, and creates a logging file named stream.log under the main folder.
+
+4. Every time after you finish starting the program and before running the program, check and change the user set id. So that next time you will not mistakenly overwrite the former database. Besides, remember to store "collected_userID", "nohup.out" and "stream.log" into the corresonding subdirectory in "record" directory. If the previous test is invalid, then type in "./clean" [a simple script I wrote] to clean those record files. 
+
+
+*****************RUN THE PROGRAM
+Run the following command to start the program:	"nohup python Timeline_test.py &" 
+"nohup" -- 	The program keep running even after you close the terminal
+"&"		--	Let the program run in the back ground
+If you want to kill the process you mistakenly start, you can use "ps aux|less" to check the pid of the process and kill it. 
+
+
+*****************FILES
+Check_APIs.py		Check the status of each API. Create API_Status.txt. 
+					You can run this program before you start running for the next user subset.
+
+Divide_User.py		Divide the total user set into smaller subset, so that when the program crashes, it will not affect the other part 
+					of users. Create user_id_sets.py
+
+Timeline_test.py	The main program used to grab user timeline.
